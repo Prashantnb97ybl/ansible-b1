@@ -5,4 +5,6 @@
 - name: this is my example variable playbook
   hosts: all
   become: yes
-  
+  vars:
+    package: httpd
+    
