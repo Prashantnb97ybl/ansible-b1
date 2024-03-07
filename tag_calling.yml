@@ -23,4 +23,4 @@
 
     - name: Print message-2
       debug:
-        msg: "write"
+        msg: "write something: {{anisble_}}"
