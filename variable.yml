@@ -9,4 +9,4 @@
     package: httpd
   tasks:
     - name: install httpd package
-      action: yum
+      action: yum name = ""
