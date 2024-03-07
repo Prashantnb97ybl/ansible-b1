@@ -2,4 +2,5 @@
 # Put the variable above the task, It is use for future purpose, only replace httpd.
 
 ---
-- name: this is my example variable 
+- name: this is my example variable playbook
+  hosts:
