@@ -19,4 +19,5 @@
     - name: Print message-1
       debug:
         msg: "write anything : {{anisble_user_git}}"
+      tags: demo
       
