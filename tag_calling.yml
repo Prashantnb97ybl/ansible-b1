@@ -18,3 +18,4 @@
   tasks:
     - name: Print message-1
       debug:
+        msg: "write anything"
