@@ -26,3 +26,5 @@
         msg: "write something: {{anisble_env.LOGNAME}}"
       tags: demo2
 ...
+
+# ansible-playbook
