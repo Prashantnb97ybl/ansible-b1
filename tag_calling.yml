@@ -24,3 +24,4 @@
     - name: Print message-2
       debug:
         msg: "write something: {{anisble_env.LOGNAME}}"
+      tags: demo2
