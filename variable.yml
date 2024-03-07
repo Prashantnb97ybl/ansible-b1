@@ -8,3 +8,4 @@
   vars:
     package: httpd
   tasks:
+    - name: install httpd package
