@@ -3,4 +3,6 @@
 
 ---
 - name: this is my example variable playbook
-  hosts:
+  hosts: all
+  become: yes
+  
