@@ -22,3 +22,5 @@
       tags: demo
 
     - name: Print message-2
+      debug:
+        msg:
