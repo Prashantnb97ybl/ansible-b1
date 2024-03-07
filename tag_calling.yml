@@ -23,4 +23,4 @@
 
     - name: Print message-2
       debug:
-        msg:
+        msg: "write"
