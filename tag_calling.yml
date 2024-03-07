@@ -17,4 +17,4 @@
   hosts: all
   tasks:
     - name: Print message-1
-    
+      debug:
