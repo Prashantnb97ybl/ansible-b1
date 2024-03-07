@@ -9,4 +9,5 @@
     pkgname: httpd
   tasks:
     - name: install httpd package
-      action: yum name = "{{pkgname}}" state = installed 
+      action: yum name = "{{pkgname}}" state = installed
+...
