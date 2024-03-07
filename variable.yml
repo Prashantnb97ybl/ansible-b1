@@ -2,4 +2,4 @@
 # Put the variable above the task, It is use for future purpose, only replace httpd.
 
 ---
-- name: 
+- name: this is my example variable 
