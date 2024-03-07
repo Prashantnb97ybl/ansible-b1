@@ -6,7 +6,7 @@
   hosts: all
   become: yes
   vars:
-    package: httpd
+    pkgname: httpd
   tasks:
     - name: install httpd package
-      action: yum name = "{{pkgname}}"
+      action: yum name = "{{pkgname}}" state:
