@@ -9,4 +9,4 @@ tasks:
 yum: <code to install the DB>
 -name: Ensure the installed service is enabled and running
 service:
-name: tomcat
+name: <your service name>
