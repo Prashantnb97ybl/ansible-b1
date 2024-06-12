@@ -1,0 +1,5 @@
+name: this is our first playbook
+hosts : node1
+    -
+     name: "create a dummy file on node1"
+     command: touch /tmp/ansible_dummy.txt
