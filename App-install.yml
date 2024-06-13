@@ -7,7 +7,7 @@
     yum:
       name: nginx
 - name: starting the nginx service 
-service:
-  name: nginx
-  state: started
-  enabled: true 
+  service:
+    name: nginx
+    state: started
+    enabled: true 
